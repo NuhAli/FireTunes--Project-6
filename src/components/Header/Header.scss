@@ -1,0 +1,72 @@
+// Import variables
+@import '../../util/scss-partials/_variables';
+
+// Header 
+header {
+    width: 100vw;
+    height: auto;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    z-index: 5;
+    overflow-y: auto;
+    background-color: #151515;
+
+    .container {
+        padding: 1.5rem 0;
+        width: 90%;
+        margin: 0 auto;
+        height: 100%;
+        text-align: center;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        .menu-toggle {
+            display: none;
+            .menu-icon {
+                margin-left: 2rem;
+                font-size: 2rem;
+                color: #e2e2e2;
+                z-index: 150;
+                cursor: pointer;
+            }
+            // Media queries
+            @media screen and(max-width:1100px) {
+                display: block;
+            }
+        }
+
+        .title {
+            h1 {
+                position: relative;
+                font-size: 4vw;
+                @include trim-blue;
+                background-clip: text;
+                color: transparent;
+                margin-left: 1rem;
+            }
+
+            // Media queries
+            @media screen and(max-width:1100px) {
+                display: none;
+            }
+        }
+
+        .title-icon {
+            border-radius: 50%;
+            margin-right: 1rem;
+            padding: 1rem;
+            @include trim-blue;
+            .react-icons {
+                color: #151515;
+                font-size: 5vw;
+            }
+        }
+    }
+
+    .border-bottom {
+        height: 8px;
+        width: 100%;
+        @include trim-blue;
+    }
+}

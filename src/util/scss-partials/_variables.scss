@@ -1,0 +1,16 @@
+// Variables 
+$background-color: linear-gradient(60deg, #043F98, #1165C1, #9CDEEB, #B7E8EB, #66BEF9, #309AF1) 0 50%;
+$background-size: 300% 300%;
+$animation-properties: alternate-gradient 5s alternate infinite;
+
+@mixin trim-blue {
+    background: $background-color;
+    background-size: $background-size;
+    animation: $animation-properties;
+    // Background-color animation
+    @keyframes alternate-gradient {
+        50% {
+            background-position: 100% 50%;
+        }
+    }
+}

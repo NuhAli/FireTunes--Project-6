@@ -1,0 +1,71 @@
+@import '../../util/scss-partials/_variables';
+
+// Mobile playlist area
+.playlist {
+    .section-title {
+        text-align: left;
+        font-size: 2rem;
+        text-transform: capitalize;
+        @include trim-blue;
+        background-clip: text;
+        color: transparent;
+        margin-left: 1rem;
+        margin-bottom: 2rem;
+    }
+    .playlist-list {
+        list-style: none;
+        margin: 1.5rem 0;
+        letter-spacing: 1px;
+        .list-item {
+            display: flex;
+            border-top: 1px solid rgba(255, 255, 255, .1);
+            .hover-effect {
+                flex-basis: 2%;
+                @include trim-blue;
+                visibility: hidden;
+            }
+            li {
+                flex-basis: 98%;
+                font-size: 1.3rem;
+                line-height: 1.5;
+                padding: 1.5rem 0 0.5rem 0.5rem;
+                color: #c2c2c2;
+                cursor: pointer;
+            }
+            &:last-child {
+                border-bottom: 1px solid rgba(255, 255, 255, .1);
+            }
+            &:hover {
+                .hover-effect {
+                    visibility: visible;
+                    transition: all 0.4s ease;
+                }
+            }
+        }
+    }
+    .button-area {
+        width: 100%;
+        height: auto;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        .cta {
+            text-align: center;
+            display: inline-block;
+            text-decoration: none;
+            color: #c2c2c2;
+            background-color: transparent;
+            border: 2px solid rgba(255, 255, 255, .1);
+            border-radius: 2rem;
+            padding: 1rem 3rem;
+            margin: 2rem auto;
+            cursor: pointer;
+        }
+        .cta:hover {
+            @include trim-blue;
+            border: 2px solid transparent;
+            color: white;
+            transition: all 0.4s ease;
+        }
+    }
+}
