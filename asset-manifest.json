@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/FireTunes--Project-6/static/css/main.dfae0cd1.chunk.css",
+    "main.js": "/FireTunes--Project-6/static/js/main.fbaf174c.chunk.js",
+    "main.js.map": "/FireTunes--Project-6/static/js/main.fbaf174c.chunk.js.map",
+    "runtime-main.js": "/FireTunes--Project-6/static/js/runtime-main.75582d76.js",
+    "runtime-main.js.map": "/FireTunes--Project-6/static/js/runtime-main.75582d76.js.map",
+    "static/js/2.663fcfcc.chunk.js": "/FireTunes--Project-6/static/js/2.663fcfcc.chunk.js",
+    "static/js/2.663fcfcc.chunk.js.map": "/FireTunes--Project-6/static/js/2.663fcfcc.chunk.js.map",
+    "index.html": "/FireTunes--Project-6/index.html",
+    "precache-manifest.a689099e382c588237bede01bff33380.js": "/FireTunes--Project-6/precache-manifest.a689099e382c588237bede01bff33380.js",
+    "service-worker.js": "/FireTunes--Project-6/service-worker.js",
+    "static/css/main.dfae0cd1.chunk.css.map": "/FireTunes--Project-6/static/css/main.dfae0cd1.chunk.css.map",
+    "static/js/2.663fcfcc.chunk.js.LICENSE.txt": "/FireTunes--Project-6/static/js/2.663fcfcc.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.75582d76.js",
+    "static/js/2.663fcfcc.chunk.js",
+    "static/css/main.dfae0cd1.chunk.css",
+    "static/js/main.fbaf174c.chunk.js"
+  ]
+}
