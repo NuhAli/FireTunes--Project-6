@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/FireTunes--Project-6/precache-manifest.59f1352b73fe409dafe7452bebf07752.js"
+  "/FireTunes--Project-6/precache-manifest.6c9705b55400e376037d4c0ae0d25bc9.js"
 );
 
 self.addEventListener('message', (event) => {

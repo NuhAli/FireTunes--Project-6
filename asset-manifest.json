@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/FireTunes--Project-6/static/css/main.dfae0cd1.chunk.css",
-    "main.js": "/FireTunes--Project-6/static/js/main.90c6dead.chunk.js",
-    "main.js.map": "/FireTunes--Project-6/static/js/main.90c6dead.chunk.js.map",
+    "main.js": "/FireTunes--Project-6/static/js/main.2c6cb05b.chunk.js",
+    "main.js.map": "/FireTunes--Project-6/static/js/main.2c6cb05b.chunk.js.map",
     "runtime-main.js": "/FireTunes--Project-6/static/js/runtime-main.75582d76.js",
     "runtime-main.js.map": "/FireTunes--Project-6/static/js/runtime-main.75582d76.js.map",
-    "static/js/2.663fcfcc.chunk.js": "/FireTunes--Project-6/static/js/2.663fcfcc.chunk.js",
-    "static/js/2.663fcfcc.chunk.js.map": "/FireTunes--Project-6/static/js/2.663fcfcc.chunk.js.map",
+    "static/js/2.d5b895a0.chunk.js": "/FireTunes--Project-6/static/js/2.d5b895a0.chunk.js",
+    "static/js/2.d5b895a0.chunk.js.map": "/FireTunes--Project-6/static/js/2.d5b895a0.chunk.js.map",
     "index.html": "/FireTunes--Project-6/index.html",
-    "precache-manifest.59f1352b73fe409dafe7452bebf07752.js": "/FireTunes--Project-6/precache-manifest.59f1352b73fe409dafe7452bebf07752.js",
+    "precache-manifest.6c9705b55400e376037d4c0ae0d25bc9.js": "/FireTunes--Project-6/precache-manifest.6c9705b55400e376037d4c0ae0d25bc9.js",
     "service-worker.js": "/FireTunes--Project-6/service-worker.js",
     "static/css/main.dfae0cd1.chunk.css.map": "/FireTunes--Project-6/static/css/main.dfae0cd1.chunk.css.map",
-    "static/js/2.663fcfcc.chunk.js.LICENSE.txt": "/FireTunes--Project-6/static/js/2.663fcfcc.chunk.js.LICENSE.txt"
+    "static/js/2.d5b895a0.chunk.js.LICENSE.txt": "/FireTunes--Project-6/static/js/2.d5b895a0.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.75582d76.js",
-    "static/js/2.663fcfcc.chunk.js",
+    "static/js/2.d5b895a0.chunk.js",
     "static/css/main.dfae0cd1.chunk.css",
-    "static/js/main.90c6dead.chunk.js"
+    "static/js/main.2c6cb05b.chunk.js"
   ]
 }
