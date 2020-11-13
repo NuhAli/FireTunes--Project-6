@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "56cd1ba1e89ad66e8fb4faa89c90ee4e",
+    "revision": "559b1402e3ccf42940239fa36afc3b05",
     "url": "/FireTunes--Project-6/index.html"
   },
   {
-    "revision": "ee61ef9ca6ed40f81b52",
+    "revision": "2937c7c808ad97d5eed1",
     "url": "/FireTunes--Project-6/static/css/main.dfae0cd1.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/FireTunes--Project-6/static/js/2.d5b895a0.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "ee61ef9ca6ed40f81b52",
-    "url": "/FireTunes--Project-6/static/js/main.02205a7d.chunk.js"
+    "revision": "2937c7c808ad97d5eed1",
+    "url": "/FireTunes--Project-6/static/js/main.a553b7cd.chunk.js"
   },
   {
     "revision": "fa2ebe2b6e03560309ca",
