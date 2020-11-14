@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "06af7d8ee15c1bd2a8c8d54cd05c872b",
+    "revision": "7988eb4c1ef9a5cda6b7d373b8cd08f6",
     "url": "/FireTunes--Project-6/index.html"
   },
   {
-    "revision": "52f54c297e052d11c3cf",
+    "revision": "1fa1807012b7f363825f",
     "url": "/FireTunes--Project-6/static/css/main.dfae0cd1.chunk.css"
   },
   {
-    "revision": "940cc5e3b6ac49f39ccf",
-    "url": "/FireTunes--Project-6/static/js/2.663fcfcc.chunk.js"
+    "revision": "1ad165eef3f9eb95023b",
+    "url": "/FireTunes--Project-6/static/js/2.d5b895a0.chunk.js"
   },
   {
     "revision": "9b318b6fb13190fe82c0677e9264b3c7",
-    "url": "/FireTunes--Project-6/static/js/2.663fcfcc.chunk.js.LICENSE.txt"
+    "url": "/FireTunes--Project-6/static/js/2.d5b895a0.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "52f54c297e052d11c3cf",
-    "url": "/FireTunes--Project-6/static/js/main.ffb5b867.chunk.js"
+    "revision": "1fa1807012b7f363825f",
+    "url": "/FireTunes--Project-6/static/js/main.43970cfd.chunk.js"
   },
   {
     "revision": "fa2ebe2b6e03560309ca",
