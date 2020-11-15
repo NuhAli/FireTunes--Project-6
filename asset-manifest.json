@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/FireTunes--Project-6/static/css/main.dfae0cd1.chunk.css",
-    "main.js": "/FireTunes--Project-6/static/js/main.b82bbde8.chunk.js",
-    "main.js.map": "/FireTunes--Project-6/static/js/main.b82bbde8.chunk.js.map",
+    "main.js": "/FireTunes--Project-6/static/js/main.f90512e8.chunk.js",
+    "main.js.map": "/FireTunes--Project-6/static/js/main.f90512e8.chunk.js.map",
     "runtime-main.js": "/FireTunes--Project-6/static/js/runtime-main.75582d76.js",
     "runtime-main.js.map": "/FireTunes--Project-6/static/js/runtime-main.75582d76.js.map",
     "static/js/2.d5b895a0.chunk.js": "/FireTunes--Project-6/static/js/2.d5b895a0.chunk.js",
     "static/js/2.d5b895a0.chunk.js.map": "/FireTunes--Project-6/static/js/2.d5b895a0.chunk.js.map",
     "index.html": "/FireTunes--Project-6/index.html",
-    "precache-manifest.e6afb1283e16facef9a7e87eef9488c5.js": "/FireTunes--Project-6/precache-manifest.e6afb1283e16facef9a7e87eef9488c5.js",
+    "precache-manifest.f33fa284c8b624af1dce4b25a1f49a62.js": "/FireTunes--Project-6/precache-manifest.f33fa284c8b624af1dce4b25a1f49a62.js",
     "service-worker.js": "/FireTunes--Project-6/service-worker.js",
     "static/css/main.dfae0cd1.chunk.css.map": "/FireTunes--Project-6/static/css/main.dfae0cd1.chunk.css.map",
     "static/js/2.d5b895a0.chunk.js.LICENSE.txt": "/FireTunes--Project-6/static/js/2.d5b895a0.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.75582d76.js",
     "static/js/2.d5b895a0.chunk.js",
     "static/css/main.dfae0cd1.chunk.css",
-    "static/js/main.b82bbde8.chunk.js"
+    "static/js/main.f90512e8.chunk.js"
   ]
 }
