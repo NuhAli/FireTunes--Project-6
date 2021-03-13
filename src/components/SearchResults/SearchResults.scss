@@ -1,0 +1,24 @@
+@import '../../util/scss-partials/_variables';
+
+// search reuslts
+.search-results-area {
+    min-width: 80%;
+    height: auto;
+    border: 1px solid #c2c2c2;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 0.5rem;
+    input{
+        margin-top: 2rem;
+    }
+    // Media queries
+    @media screen and (max-width: 770px){
+        width: auto;
+    }
+    @media screen and (max-width: 500px){
+        width: auto;
+        padding-top: 2rem; 
+    }
+}
